@@ -2,4 +2,4 @@
 reproduce clips audio
 
 
-reproductor de musica
+reproductor de musica mezclada
